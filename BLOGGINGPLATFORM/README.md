@@ -2,9 +2,11 @@
 
 It is one of the complex project which I have worked on. It is a MERN project which as all features ranging from user authenticatiion<br>
 to edit post, user and commenting post to write your own post.
-Frontedn is made with the help of React and designing is done with the help of Tailwind.
+Frontend is made with the help of React and designing is done with the help of Tailwind.
 Backend is done with the Help of NDOE and express.
 Database used is Mongodb
+From JWT authentication to Use context, from making API of different routes to making Navbar it enhanced my skills.
+Things i have learned where search implementation., enhancemnet in props and usefecct feature of React and JWT verification
 
 <h3>SNEAK PEAK</h3>
 <br>
