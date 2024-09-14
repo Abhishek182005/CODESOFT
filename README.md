@@ -1,4 +1,4 @@
-![TITLEPAGE](https://github.com/user-attachments/assets/694583fd-7e05-4e90-af5c-95e8fd60378b)# CODSOFT
+# CODSOFT
 It is the repository in which it has projects which contains all my projects which i have done in my  Internship at Codsoft.
 HERE ARE LINKS OF ALL MY PROJECTS
 
