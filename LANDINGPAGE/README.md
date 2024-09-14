@@ -11,18 +11,23 @@ It is the landing page of a  wesbite which is made from purely HTML and CSS.
 <b>SNEAK PEAK</b>
 <br>
 
-![1](https://github.com/user-attachments/assets/14125ed0-7767-4a76-8438-ef9cc5db0690)
+![image](https://github.com/user-attachments/assets/c62a78c8-ad39-44de-805a-7c36de2bcbf4)
+
 
 <br>
 
-![2](https://github.com/user-attachments/assets/99bece40-f374-409a-9b81-2449490d055b)
+![image](https://github.com/user-attachments/assets/03ff90ad-4298-4983-b565-284bae8e3f35)
+
 
 <br>
 
-![3](https://github.com/user-attachments/assets/4397fa18-1f6c-41ed-9cfa-25d68a066040)
+![image](https://github.com/user-attachments/assets/63bbe656-2089-4926-ab10-cbdbbbae1303)
+
 
 <br>
 
-![4](https://github.com/user-attachments/assets/5195718d-feda-4518-8343-b124317e1d8d)
+![image](https://github.com/user-attachments/assets/24f4efd8-8de4-4da4-98cf-99b1f7b75f14)
+
+
 <br>
 
