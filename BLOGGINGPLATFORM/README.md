@@ -1,4 +1,4 @@
-#BLOGGING PLATFORM 
+# BLOGGING PLATFORM 
 
 It is one of the complex project which I have worked on. It is a MERN project which as all features ranging from user authenticatiion<br>
 to edit post, user and commenting post to write your own post.
