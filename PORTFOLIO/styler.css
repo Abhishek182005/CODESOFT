@@ -1,0 +1,214 @@
+/* Basic Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Navigation Styles */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+nav .nav-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav .nav-list li {
+    margin-left: 20px;
+}
+
+nav .nav-list li a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+nav .nav-list li a:hover {
+    color: #ff6347; /* Change to your desired hover color */
+    background-color: rgba(255, 255, 255, 0.2); /* Optional background color change */
+    padding: 5px;
+    border-radius: 5px;
+}
+
+/* Section Styles */
+section {
+    padding: 2rem 1rem;
+}
+
+.mover {
+    background-color: cyan;
+    font-size: 1.2rem;
+    color: #555;
+}
+
+.mover1 {
+    background-color: black;
+    font-size: 1.2rem;
+   color: #32cd32;
+text-shadow:
+  0 0 7px #32cd32,
+  0 0 10px #32cd32,
+  0 0 21px #32cd32,
+  0 0 42px #2ecc71,
+  0 0 82px #2ecc71,
+  0 0 92px #2ecc71,
+  0 0 102px #2ecc71,
+  0 0 151px #2ecc71; 
+}
+
+.container, .container1, .container2, .container3 {
+    max-width: 1200px;
+    margin: 1rem auto;
+    padding: 1rem;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* About Section */
+.head4 {
+    font-size: 1.8rem;
+    margin-top: 2rem;
+}
+
+.text-content p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+.name, .title, .skills, .frameworks {
+    font-weight: bold;
+    color: #333;
+}
+
+/* Table Styles */
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0;
+}
+
+.table th, .table td {
+    padding: 0.8rem;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.tdl a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+/* Marquee Styles */
+.mover {
+    color: #007BFF;
+    font-weight: bold;
+}
+
+/* Skills and Projects Styles */
+.Template {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card1 {
+    background-color: #fff;
+    width: 30%;
+    margin: 1rem;
+    padding: 1rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.card1 img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.cont {
+    padding: 1rem 0;
+}
+
+
+/* Resume and Contact Section */
+.btn1, .btn2 {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-transform: uppercase;
+    margin: 1rem;
+}
+
+.btn1:hover, .btn2:hover {
+    background-color: #0056b3;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social-icons div {
+    margin: 0 1rem;
+}
+
+.social-icons img {
+    width: 50px;
+    height: 50px;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.neon1 {
+  color: #32cd32;
+text-shadow:
+  0 0 7px #32cd32,
+  0 0 10px #32cd32,
+  0 0 21px #32cd32,
+  0 0 42px #2ecc71,
+  0 0 82px #2ecc71,
+  0 0 92px #2ecc71,
+  0 0 102px #2ecc71,
+  0 0 151px #2ecc71;
+}
+
+.neon2 {
+    color: #ffa07a;
+text-shadow:
+  0 0 7px #ffa07a,
+  0 0 10px #ffa07a,
+  0 0 21px #ffa07a,
+  0 0 42px #ff9900,
+  0 0 82px #ff9900,
+  0 0 92px #ff9900,
+  0 0 102px #ff9900,
+  0 0 151px #ff9900;
+}
