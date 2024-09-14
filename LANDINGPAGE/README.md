@@ -10,6 +10,7 @@ It is the landing page of a  wesbite which is made from purely HTML and CSS.
 
 <b>SNEAK PEAK</b>
 <br>
+
 ![image](https://github.com/user-attachments/assets/14125ed0-7767-4a76-8438-ef9cc5db0690)
 
 <br>
@@ -23,6 +24,5 @@ It is the landing page of a  wesbite which is made from purely HTML and CSS.
 <br>
 
 ![image](https://github.com/user-attachments/assets/5195718d-feda-4518-8343-b124317e1d8d)
-
 <br>
 
